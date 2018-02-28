@@ -1,40 +1,10 @@
 ## Assignment 2 Links
 
 ### Visualizations
-1. [Bar Graph](https://bl.ocks.org/ShayRomayo/3202ee4c7651338c0b38678591e0d579)
-2. [Line Graph](https://bl.ocks.org/ShayRomayo/d72505eca00ca4f2aa1a80ef2d710bef)
-3. [Scatter Plot (Bivariate)](https://bl.ocks.org/ShayRomayo/606ec6f7b871cfe720f8b71543678fc5)
-4. [Scatter Plot (Trivariate)](https://bl.ocks.org/ShayRomayo/b7c7a8eed062c6019cadf732070ee517)
-5. [Trellis Plot](https://bl.ocks.org/ShayRomayo/f1ff52cda75173edfd9b037a499a3abb)
+1. [Bar Graph]()
+2. [Line Graph](https://bl.ocks.org/michaelttran/15e46ad5e3cb02ecf5564010d0d31e38)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShayRomayo/cs360page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
