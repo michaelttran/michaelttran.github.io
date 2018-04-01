@@ -18,7 +18,7 @@
   [Citation](https://bl.ocks.org/d3noob/402dd382a51a4f6eea487f9a35566de0)
 3. [Splatter Plot(Bivariate)]()
 4. [Splatter Plot(Trivariate)]()
-5. [Trellis Graph]()
+5. [Trellis Graph](https://bl.ocks.org/michaelttran/dc539687c23a8fafa4cb6ac090eebbb3)
 6. [Scatterplot Matrix]()
 
 
