@@ -23,6 +23,9 @@
 
 ### Assignment 5 Visualizations
 1. [Interaction for Line Graph](https://bl.ocks.org/michaelttran/24c294708c051f9bca0148787053b565)
+   [Citation](https://github.com/d3/d3-zoom)
+   [Citation](https://stackoverflow.com/questions/2611980/return-value-from-nested-function-in-javascript)
+   [Citation](http://bl.ocks.org/d3noob/8dc93bce7e7200ab487d)
 
 
 
